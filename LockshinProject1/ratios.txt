@@ -1,0 +1,12 @@
+Jane Lockshin
+CSCI 564: Project 1
+
+Hit ratio of LRU: .995 = 99.5% Hit Rate
+
+Hit ratio of random cache: .9938 = 99.38% Hit Rate (this was roughly the most common hit rate after running the random replacement multiple times)
+
+
+
+
+
+
